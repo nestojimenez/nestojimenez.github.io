@@ -1,8 +1,17 @@
 h1 {
-    color: rgb(215, 15, 15);
+    color: rgb(15, 53, 240);
     font-size: 2em;
     padding-top: 100px;
     width: 100%;
-    font-family: Georgia;
+    font-family: Helvetica;
+    text-align: center;
+  }
+
+  h2 {
+    color: rgb(60, 80, 179);
+    font-size: 2em;
+    padding-top: 100px;
+    width: 100%;
+    font-family: Helvetica;
     text-align: center;
   }
