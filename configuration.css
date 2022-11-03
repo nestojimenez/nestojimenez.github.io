@@ -16,14 +16,6 @@ h1 {
     text-align: center;
   }
 
-  ol {
-    color: rgb(60, 80, 179);
-    font-size: 1em;
-    width: 100%;
-    font-family: Helvetica;
-    text-align: center;
-  }
-
   .center {
     display: block;
     margin-left: auto;
