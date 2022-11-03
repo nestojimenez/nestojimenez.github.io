@@ -30,3 +30,12 @@ h1 {
     margin-right: auto;
     width: 50%;
   }
+
+  div.container {
+    text-align: center;
+  }
+  
+  ul.myOL {
+    display: inline-block;
+    text-align: left;
+  }
