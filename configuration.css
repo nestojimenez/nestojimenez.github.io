@@ -25,9 +25,16 @@ h1 {
 
   div.container {
     text-align: center;
+    
   }
   
-  ul.myOL {
+  ol.myOL {
     display: inline-block;
     text-align: left;
+    list-style-position: inside;
+
+  }
+
+  li{
+    color: rgb(15, 53, 240);
   }
